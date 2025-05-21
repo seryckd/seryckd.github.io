@@ -1,0 +1,2 @@
+# seryckd.github.io
+Blog
