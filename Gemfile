@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-# Github Jekyll and supported plugins
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.2"
 
 group :jekyll_plugins do
+  gem "minima", github: "jekyll/minima", ref: "v2.5.2"
   gem 'jekyll_img'
 end
