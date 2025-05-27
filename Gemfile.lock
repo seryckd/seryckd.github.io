@@ -27,8 +27,12 @@ GEM
     facets (3.1.0)
     ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
+    ffi (1.17.2-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.31.0-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.31.0-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -100,6 +104,8 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.89.0-arm64-darwin)
       google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
@@ -107,6 +113,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-24
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.2)

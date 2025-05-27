@@ -1,6 +1,12 @@
 # seryckd.github.io
 Blog
 
+## Gem Lock File
+
+```
+bundle lock --add-platform x86_64-linux
+```
+
 ## Running Locally
 
 ```
