@@ -8,6 +8,7 @@ author:
 sass:
   quiet_deps: true
   silence_deprecations: [import]
+  style: compressed
 
 show_excerpts: true
 
@@ -21,3 +22,7 @@ minima:
 
   social_links:
 
+img:
+  die_on_img_error: true
+  pry_on_img_error: true
+  
