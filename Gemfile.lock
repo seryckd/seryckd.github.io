@@ -25,7 +25,6 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     facets (3.1.0)
-    ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
