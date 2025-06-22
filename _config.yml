@@ -4,23 +4,24 @@ title: Cluttered Spaces
 
 author:
   name: Darren Seryck
+  email: "my@email"
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-  style: compressed
-
-show_excerpts: true
 
 minima:
+  skin: classic
 
   hide_site_feed_link:: false  
   
   nav_pages:
-    - colour.md
+    - cat-fun.md
+    - cat-garden.md
+    - cat-house.md
+    - cat-misc.md
     - about.md
+  
+  show_excerpts: true
 
-  social_links:
+  # social_links:
 
 img:
   die_on_img_error: true
