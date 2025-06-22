@@ -1,0 +1,12 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+
+ @import
+   "jekyll_img",
+   "jekyll_plugin_support";
+  
