@@ -1,12 +1,6 @@
 ---
-layout: page
+layout: category
 title: Misc
 permalink: /misc/
+my-category: Misc
 ---
-
-
-<ul>
-{% for post in site.categories.Misc %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>

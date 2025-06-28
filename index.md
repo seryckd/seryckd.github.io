@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: Latest Posts
+list_title:
 ---
 
 {% img src="cropped-desk_2.jpg" align="center" %}

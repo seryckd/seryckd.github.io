@@ -21,8 +21,11 @@ minima:
   
   show_excerpts: true
 
-  # social_links:
-
+  social_links:
+    - title: My Github profile
+      icon: github
+      url: "https://github.com/seryckd/"
+      
 img:
   die_on_img_error: true
   pry_on_img_error: true

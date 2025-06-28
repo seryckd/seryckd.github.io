@@ -1,12 +1,6 @@
 ---
-layout: page
+layout: category
 title: Garden
 permalink: /garden/
+my-category: garden
 ---
-
-
-<ul>
-{% for post in site.categories.garden %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>

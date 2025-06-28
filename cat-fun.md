@@ -1,12 +1,6 @@
 ---
-layout: page
+layout: category
 title: Fun
 permalink: /fun/
+my-category: fun
 ---
-
-
-<ul>
-{% for post in site.categories.fun %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
