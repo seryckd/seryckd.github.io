@@ -1,0 +1,34 @@
+.search-box {
+  background: #fff;
+  border: 1px solid #eaeaea;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  padding: 1.2em 1.5em 1em 1.5em;
+  margin: 2em 0;
+}
+
+.search-box input[type="text"] {
+  width: 100%;
+  font-size: 1em;
+  padding: 0.5em;
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+  margin-bottom: 1em;
+  background: #fafafa;
+  color: #222;
+}
+
+.search-box ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.search-box li {
+  padding: 0.3em 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.search-box li:last-child {
+  border-bottom: none;
+}

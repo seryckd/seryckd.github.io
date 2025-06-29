@@ -2,6 +2,19 @@
 
 [Blog Link](https://seryckd.github.io)
 
+## How to Add Search to This Blog
+
+This blog uses Jekyll. To add search, a simple and privacy-friendly approach is to use [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search):
+
+1. **A search index is generated at `/search.json`** (already present in this repo).
+2. **A search bar and results list are included on the home page** using a partial (`_includes/search.html`).
+3. **The search is powered by JavaScript in the browser, with no external dependencies.**
+
+**To add search to other pages:**
+- Insert `{% include search.html %}` wherever you want the search bar to appear.
+
+**For more advanced search (e.g., Algolia, Lunr.js), see the README section below.**
+
 ## Gem Lock File
 
 ```
@@ -17,11 +30,9 @@ bundle exec jekyll serve --baseurl=""
 
 ## TODO
 
-- click on images to make them bigger
 - can images scale according to width? so they show larger on mobile
 - custom DNS
 - footer of the page: name, email, social links, description
-- search - include a tag cloud?
 - archive page
 - can we add inifinity scroll instead of loading the whole page?
 - exerpts (https://jekyllrb.com/docs/posts/#post-excerpts) should be set better.  Can we get a picture and paragraph for each?
