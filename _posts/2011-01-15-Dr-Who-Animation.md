@@ -18,6 +18,9 @@ Oh, the 'special effects' were done with [The Gimp](http://www.gimp.org/). This 
 
 Anyways the final product looked like this :
 
-[Dr Who (at Flickr)](https://flic.kr/p/9auREh)
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2011-01-15-Dr-Who-Animation/drwho-1_5358332800.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 The second Dalek is supposed to be destroyed by the first only I had deleted the original frames so couldn't put the effect in. (Lack of space on the hard drive is a terrible thing.)

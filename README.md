@@ -17,7 +17,6 @@ bundle exec jekyll serve --baseurl=""
 
 ## TODO
 
-- flickr videos
 - click on images to make them bigger
 - can images scale according to width? so they show larger on mobile
 - custom DNS

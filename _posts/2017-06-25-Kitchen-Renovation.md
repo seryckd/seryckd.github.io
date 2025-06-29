@@ -7,9 +7,11 @@ categories:
 
 Bit of a long one, this. Should have been posting regular updates but got a bit a busy. Let's start with the before and after pics.
 <h3>After</h3>
-<img alt="Kitchen Reno" height="640" src="https://c1.staticflickr.com/5/4256/34722987203_0274d27983_z.jpg" width="640"/>
+
+{% img src="/assets/posts/2017-06-25-Kitchen-Renovation/kitchen-reno_34722987203_o.jpg" caption="Kitchen Reno" size="fullsize" alt="Kitchen Reno" align="center" %}
+
 <h3>Before</h3>
-<img alt="Kitchen" height="640" src="https://c1.staticflickr.com/5/4259/35493139406_f66b1f428d_z.jpg" width="478"/>
+{% img src="/assets/posts/2017-06-25-Kitchen-Renovation/kitchen-reno_35493139406_o.jpg" caption="Kitchen Reno" size="fullsize" alt="Kitchen Reno" align="center" %}
 
 Top tip for all renovations - take a before pic so you can see whether all the effort was worth it. This one took about 6 months all told, as I mostly worked on it during weekends.
 
