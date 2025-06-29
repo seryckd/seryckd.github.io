@@ -17,7 +17,10 @@ This is the static result:
 
 Here's a short (10sec) video of it being demonstrated by a handy volunteer who happened to be passing.
 
-http://www.flickr.com/photos/seryckd/4856960006/in/set-72157623949654506
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2010-08-03-Trebuchet-part-I/trebuchet-prototype1_4856960006.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
 Since it's a prototype we need a short 'lessons learned' section.
 

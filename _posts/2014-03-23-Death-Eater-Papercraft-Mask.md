@@ -27,6 +27,9 @@ Because I wanted to hang it on the wall I added a paper hook to the back. This i
 
 Just for fun I put the mask on a drumstick and rotated it to get this
 
-[flickr video=13351737853 secret=1c1f81826d w=400 h=225]
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2014-03-23-Death-Eater-Papercraft-Mask/deatheatermask_13351737853.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Of course, now I have seen the finished version it is just asking to have the eye holes cut out and a rubber band tied to each side :)

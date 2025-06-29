@@ -13,7 +13,10 @@ Earlier this month I became a bemused and first time owner of a smart phone; an 
 
 Flushed with excitement I went outside to catch the gorgeous display of daffodils in the spring. Here's a short clip.
 
-[flickr video=9082503857 secret=d02897a28b w=400 h=265]
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2013-06-20-Some-Like-it-Steady/nosteadicamtest_9082503857.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Oh dear, that's not exactly easy on the eyes. Interesting it looks a lot better on the camera but as soon as it is shown full resolution on a bigger screen then there is a danger of inducing sea sickness.
 
@@ -35,7 +38,10 @@ The biggest issue with it is the vertical pole is too short. But shortcomings as
 
 By this time the daffodils had long gone, so this clip is taken from me just wondering aimlessly around the garden.
 
-[flickr video=9082501403 secret=1f5499cbca w=400 h=265]
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2013-06-20-Some-Like-it-Steady/steadicamtest_9082501403.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Ok, so it's never going to be mistaken for a $600 professional model. But there is a definite improvement over not using one.
 
