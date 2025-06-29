@@ -18,10 +18,10 @@ tags:
 
 It's a pressure plate used on halloween to make lights go on and off.  Like this
 
-
-
-
-{% img src="https://vimeo.com/880370081?share=copy"    align="center" %}
+<video width="640" height="360" controls>
+  <source src="/assets/posts/2022-10-22-Halloween-Boards/IMG_7583.mov">
+  Your browser does not support the video tag.
+</video>
 
 
 This year I wanted to spice up the pumpkin booth with something interactive. Step on the board, make some lights happen, step off, back to where it was. Surprisingly I actually made it, even more surprisingly it lasted a few hundred kids stepping on it.  At the end I'll go through what went right and should be improved.
