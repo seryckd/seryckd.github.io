@@ -34,7 +34,7 @@ This year I wanted to spice up the pumpkin booth with something interactive. Ste
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7566_53303845881_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7566_53303845881_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7566_53303845881_o.jpg"  size="halfsize"  align="center" %}
 
 
 
@@ -49,7 +49,7 @@ The two pieces of plywood need to be kept separated when they are placed togethe
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7569_53304321385_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7569_53304321385_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7569_53304321385_o.jpg"  size="halfsize"  align="center" %}
 
 
 To make the boards into a giant switch, I taped down some kitchen foil (with the shiny side up, no idea if that makes a difference) on each piece.  The extra piece at the ends is so I have some where to attach a wire. 
@@ -57,7 +57,7 @@ To make the boards into a giant switch, I taped down some kitchen foil (with the
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7574_53303845926_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7574_53303845926_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7574_53303845926_o.jpg"  size="halfsize"  align="center" %}
 
 
 For each piece I soldered a piece of wire to the foil and used electrical tape to fix in place.  Soldering the wire to the foil took a few goes and I wasn't convinced I had a good connection until I tested it.
@@ -75,7 +75,7 @@ I had brought a [Spark Fun IoT Relay](https://www.sparkfun.com/products/14236) f
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7577_53304089463_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7577_53304089463_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7577_53304089463_o.jpg"  size="halfsize"  align="center" %}
 
 
 The relay and batteries for the circuit are in the plastic case. I turned everything and immediately the relay tripped and the spotlight turned on.  The boards were touching without being stepped on.  Over the next hour or so I tried combinations of loosening the screws holding the boards together, adding more height between the boards to separate them and finally some cardboard separators.
@@ -83,7 +83,7 @@ The relay and batteries for the circuit are in the plastic case. I turned everyt
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7576_53302982387_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7576_53302982387_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7576_53302982387_o.jpg"  size="halfsize"  align="center" %}
 
 
 The picture shows 3 strips, I think I finally ended with 2.  But it worked!  And it was incredibly satisfying to step on the wood and watch a light go on. Many, many times.
@@ -91,7 +91,7 @@ The picture shows 3 strips, I think I finally ended with 2.  But it worked!  And
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7582_53302982427_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7582_53302982427_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/img_7582_53302982427_o.jpg"  size="halfsize"  align="center" %}
 
 
 Here's the pressure plate in front of a table with pumpkins on.  The Spark Fun relay does some interesting things, so I had a strip of lights on when the pressure plate is not pressed, then when it is pressed those lights go off and the spotlights go on.  Go watch the video at the top of the page to see it in action.
@@ -104,7 +104,7 @@ In case you are wondering why go to all this effort for a couple of kids, you sh
 
 
 
-{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/181254d0-f5fd-411e-8605-7ff4921dd6af_53304089578_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-11-02-Halloween-Pressure-Plate/181254d0-f5fd-411e-8605-7ff4921dd6af_53304089578_o.jpg" url="/assets/posts/2023-11-02-Halloween-Pressure-Plate/181254d0-f5fd-411e-8605-7ff4921dd6af_53304089578_o.jpg"  size="halfsize"  align="center" %}
 
 
 <h2 class="wp-block-heading">Conclusion</h2>

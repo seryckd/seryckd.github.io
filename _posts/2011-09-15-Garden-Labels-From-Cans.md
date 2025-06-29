@@ -13,11 +13,11 @@ Well, about 3 months ago Sue got a plant that was labelled with a piece of alumi
 
 Here's some cans cut up with a good pair of tin snips (mine came from a thrift store and weight about 1 pound)
 
-{% img src="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-1_6151222697_o.jpg" caption="LabelsFromCans-1" size="halfsize" alt="LabelsFromCans-1" align="center" %}
+{% img src="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-1_6151222697_o.jpg" url="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-1_6151222697_o.jpg" caption="LabelsFromCans-1" size="halfsize" alt="LabelsFromCans-1" align="center" %}
 
 Now what do we do with shiny metal surfaces? Well, we attack them with a dremel, grafitti them with permanent marker and then staple them to small pieces of cedar (cedar is the wood of choice in the garden as it takes a long time to rot).
 
-{% img src="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-2_6151222201_o.jpg" caption="LabelsFromCans-2" size="halfsize" alt="LabelsFromCans-2" align="center" %}
+{% img src="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-2_6151222201_o.jpg" url="/assets/posts/2011-09-15-Garden-Labels-From-Cans/labelsfromcans-2_6151222201_o.jpg" caption="LabelsFromCans-2" size="halfsize" alt="LabelsFromCans-2" align="center" %}
 
 Then we put them in the garden to endure a range of temperatures from 30C to -20C, bury them in a foot of snow, drown them in a pool of rain water and burn them under a hot sun.
 

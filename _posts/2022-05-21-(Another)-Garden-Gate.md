@@ -24,7 +24,7 @@ Time for an upgrade.
 
 
 
-{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52087770427_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52087770427_o.jpg" url="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52087770427_o.jpg"    align="center" %}
 
 
 The gate is between two 4x4 posts and has 2x4s to mount the fence planks on.
@@ -32,7 +32,7 @@ The gate is between two 4x4 posts and has 2x4s to mount the fence planks on.
 
 
 
-{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52088801096_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52088801096_o.jpg" url="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52088801096_o.jpg"    align="center" %}
 
 
 View from the back, seeing the (rather crude) construction of gate and fence.
@@ -40,10 +40,10 @@ View from the back, seeing the (rather crude) construction of gate and fence.
 
 
 
-{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050679_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050679_o.jpg" url="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050679_o.jpg"    align="center" %}
 
 
-{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050669_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050669_o.jpg" url="/assets/posts/2022-05-21-(Another)-Garden-Gate/garden-gate_52089050669_o.jpg"    align="center" %}
 
 
 This gate is meant to keep the dog out of the compost so it has a self closer in case we forget and leave it open.

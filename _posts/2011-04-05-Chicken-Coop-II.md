@@ -13,4 +13,3 @@ The chicken coop continues on. Three of the main walls are completed and waiting
 
 I still can't cut straight lines with a power jigsaw. One of these days I'll have to get a table saw or a circular saw but until then I'll stick to my (t)rusty hand saws and the jigsaw.
 
- 

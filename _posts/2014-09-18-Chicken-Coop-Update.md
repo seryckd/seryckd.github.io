@@ -16,15 +16,15 @@ From the outside we added an extension that contained two nesting boxes, both ac
 
 Here's the new box
 
-{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091434299_o.jpg" caption="Chicken Run" size="fullsize" alt="Chicken Run" align="center" %}
+{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091434299_o.jpg" url="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091434299_o.jpg" caption="Chicken Run" size="fullsize" alt="Chicken Run" align="center" %}
 
 Essentially it's just a box with a divider down the middle. The bottom of it is double skinned and contains some pink insulation so the poor girls don't freeze in the winter; and it's mounted on some breeze blocks to match the height for the existing one. Every corner is caulked so as to cut down on places for grime to accumulate.
 
 Here are some other pics
 
-{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091641027_o.jpg" caption="Chicken Run" size="halfsize" alt="Chicken Run" align="center" %}
-{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15278183775_o.jpg" caption="Chicken Run" size="halfsize" alt="Chicken Run" align="center" %}
+{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091641027_o.jpg" url="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15091641027_o.jpg" caption="Chicken Run" size="halfsize" alt="Chicken Run" align="center" %}
+{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15278183775_o.jpg" url="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15278183775_o.jpg" caption="Chicken Run" size="halfsize" alt="Chicken Run" align="center" %}
 
 Finally, here are all the girls doing their thing
 
-{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15255169856_o.jpg" caption="Chicken Run" size="fullsize" alt="Chicken Run" align="center" %}
+{% img src="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15255169856_o.jpg" url="/assets/posts/2014-09-18-Chicken-Coop-Update/chicken-run_15255169856_o.jpg" caption="Chicken Run" size="fullsize" alt="Chicken Run" align="center" %}

@@ -15,11 +15,11 @@ It turns out that cutting glass is a bit of art form. After a few false starts m
 
 Grabbing some scrap wood the mirrors were mounted like this:
 
-{% img src="/assets/posts/2010-10-26-Pseudoscope/pseudoscope_5114704715_o.jpg" caption="Pseudoscope" size="halfsize" alt="Pseudoscope" align="center" %}
+{% img src="/assets/posts/2010-10-26-Pseudoscope/pseudoscope_5114704715_o.jpg" url="/assets/posts/2010-10-26-Pseudoscope/pseudoscope_5114704715_o.jpg" caption="Pseudoscope" size="halfsize" alt="Pseudoscope" align="center" %}
 
 From this angle you can see the rough edges on the mirrors.
 
-{% img src="/assets/posts/2010-10-26-Pseudoscope/pseudoscope2_5115305966_o.jpg" caption="Pseudoscope2" size="halfsize" alt="Pseudoscope2" align="center" %}
+{% img src="/assets/posts/2010-10-26-Pseudoscope/pseudoscope2_5115305966_o.jpg" url="/assets/posts/2010-10-26-Pseudoscope/pseudoscope2_5115305966_o.jpg" caption="Pseudoscope2" size="halfsize" alt="Pseudoscope2" align="center" %}
 
 The marked lines are to remind me which end to look in :)
 
