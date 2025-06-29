@@ -21,7 +21,7 @@ Also, if you don't want to print out the templates on your own printer due to ho
 
 This template is pretty simple, about 14 pieces, and they all large enough to handle without tweezers. Just cut them out and glue together with white craft glue. The only trick to this model is getting the curve right on the edges, as the model curves like a real mask does.
 
-{% img src="https://farm8.staticflickr.com/7111/13352995093_4854908bb3.jpg" caption="Death Eater Mask" size="halfsize" alt="Death Eater Mask" align="center" %}
+{% img src="/assets/posts/2014-03-23-Death-Eater-Papercraft-Mask/death-eater-mask_13352995093_o.jpg" caption="Death Eater Mask" size="halfsize" alt="Death Eater Mask" align="center" %}
 
 Because I wanted to hang it on the wall I added a paper hook to the back. This is just a thin rectangular piece of card stock with a hole cut out partially glued to the model.
 

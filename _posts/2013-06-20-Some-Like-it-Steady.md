@@ -27,7 +27,7 @@ As it happened we had just thrown out a clothes rack that was made of 1" alumini
 
 Keeping it simple I went with 3 bits of scrap wood in a U shape. The phone fits in the U shape and a small wedge bit of wood keeps it tight.
 
-{% img src="http://farm8.staticflickr.com/7447/9079501331_d5ccc8ae5e.jpg" caption="Steadicam Annotated" size="halfsize" alt="Steadicam Annotated" align="center" %}
+{% img src="/assets/posts/2013-06-20-Some-Like-it-Steady/steadicam-annotated_9079501331_o.png" caption="Steadicam Annotated" size="halfsize" alt="Steadicam Annotated" align="center" %}
 
 Assembly was just drilling a hole in the bottom of the vertical pole to put a metal rod through (a large nail would also work), that stops the weight from falling of the edge. A 1" hole was drilled in the U shape phone attachment and the vertical pole was coerced into it using a large hammer. The plastic corner attachment is tight enough to stay roughly where it is left.
 

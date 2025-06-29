@@ -23,6 +23,6 @@ About two months after the vest went on we thought CiaV had recovered enough and
 
 We didn't take many pictures, but here is one we have a few days before taking the vest off.
 
-{% img src="http://farm3.staticflickr.com/2826/12887137284_1b8cc7c77b_n.jpg" caption="Chicken Vest" size="halfsize" alt="Chicken Vest" align="center" %}
+{% img src="/assets/posts/2014-03-02-Chicken-Vest/chicken-vest_12887137284_o.jpg" caption="Chicken Vest" size="halfsize" alt="Chicken Vest" align="center" %}
 
 And the happy ending is because we took the vest of a few weeks ago and the hen pecking did not resume. Of course this also meant I had to concede the vest had worked.

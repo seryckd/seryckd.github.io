@@ -18,7 +18,7 @@ Well, it turns out that a hot glue gun is just the thing to glue everything back
 
 Here's the final result:
 
-{% img src="http://farm8.staticflickr.com/7144/6739067355_f4bf091703.jpg" caption="Taillight" size="halfsize" alt="Taillight" align="center" %}
+{% img src="/assets/posts/2012-01-21-Broken-tail-light/taillight_6739067355_o.jpg" caption="Taillight" size="halfsize" alt="Taillight" align="center" %}
 
 It's not going to win any beauty contests but it is street legal which is the most important thing.
 

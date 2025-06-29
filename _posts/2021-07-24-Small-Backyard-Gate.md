@@ -13,7 +13,7 @@ Our daughter has a back garden that can be accessed from the street. She was kee
 
 
 
-{% img src="https://live.staticflickr.com/65535/51320786963_50688b048f_c.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2021-07-24-Small-Backyard-Gate/img_5712_51320786963_o.jpg"  size="halfsize"  align="center" %}
 
 
 I'd never made a gate before so spent a while looking up some suggestions.  In the end I went with a frame of 2x4 with some 1x3 boards.
@@ -26,7 +26,7 @@ Here's the frame, with some dowel rod used to pin it. The dowel rod was from my 
 
 
 
-{% img src="https://live.staticflickr.com/65535/51321303419_88a0214630_c.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2021-07-24-Small-Backyard-Gate/img_5708_51321303419_o.jpg"  size="halfsize"  align="center" %}
 
 
 I put a diagonal in as well (not shown).  Then I cut the boards and used some spacers when screwing them in.  I didn't have enough boards to cover the width, that's why I had to space them out.
@@ -34,7 +34,7 @@ I put a diagonal in as well (not shown).  Then I cut the boards and used some sp
 
 
 
-{% img src="https://live.staticflickr.com/65535/51321586785_db441cb054_c.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2021-07-24-Small-Backyard-Gate/img_5709_51321586785_o.jpg"  size="halfsize"  align="center" %}
 
 
 That was the gate done, but I wanted it to look a little better, so decided to add some curves.
@@ -42,7 +42,7 @@ That was the gate done, but I wanted it to look a little better, so decided to a
 
 
 
-{% img src="https://live.staticflickr.com/65535/51320786933_64e4f27fee_c.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2021-07-24-Small-Backyard-Gate/img_5710_51320786933_o.jpg"  size="halfsize"  align="center" %}
 
 
 I used a bucket to draw the lines and then a jigsaw to cut it out.

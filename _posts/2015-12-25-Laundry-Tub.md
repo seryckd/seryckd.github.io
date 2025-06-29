@@ -30,19 +30,19 @@ The biggest issue was having very little play in the pipe to move it an extra in
 
 Here's the connector at an inviting 45 degree angle.
 
-{% img src="https://farm6.staticflickr.com/5741/23599806809_0b3b16f696.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
+{% img src="/assets/posts/2015-12-25-Laundry-Tub/laundry-tub_23599806809_o.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
 
 The tub was quite close to the waste pipe so there wasn't a lot of room to work with. Here's the final assembly of S trap and 45 degree connector.
-{% img src="https://farm2.staticflickr.com/1485/23599808939_8c2da52185.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
+{% img src="/assets/posts/2015-12-25-Laundry-Tub/laundry-tub_23599808939_o.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
 
  
 
 The pieces were dry fitted together and then glued. To ensure I put them back together correctly, I put bits of tape on the joins and marked them with arrows. Handy.
 
-{% img src="https://farm2.staticflickr.com/1563/23941589456_f5b47f4ccc.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
+{% img src="/assets/posts/2015-12-25-Laundry-Tub/laundry-tub_23941589456_o.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
 
 The rest was easy, just connecting the bottom of the tub and attaching the water lines.
 
-{% img src="https://farm6.staticflickr.com/5672/23967691085_affeb8ce44.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
+{% img src="/assets/posts/2015-12-25-Laundry-Tub/laundry-tub_23967691085_o.jpg" caption="Laundry Tub" size="halfsize" alt="Laundry Tub" align="center" %}
 
 Wahey. Now let the painting begin!

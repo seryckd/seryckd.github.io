@@ -13,6 +13,6 @@ Brains were engaged and thoughts were made. The conclusion was made: an extensio
 
 So in the pen they stay.
 
-{% img src="http://farm6.staticflickr.com/5335/7411608296_f482a7eb02.jpg" caption="Chicken Shed Extension" size="halfsize" alt="Chicken Shed Extension" align="center" %}
+{% img src="/assets/posts/2012-06-20-Chicken-Coop-VIII/chicken-shed-extension_7411608296_o.jpg" caption="Chicken Shed Extension" size="halfsize" alt="Chicken Shed Extension" align="center" %}
 
 It was a bit quick and rough but there it is. Functional, I think you'd call it. It's a been a few weeks now and the grass has not disappeared completely so there's definitely a bit more wiggle room for them.

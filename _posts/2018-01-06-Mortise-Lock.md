@@ -16,11 +16,11 @@ As we slowly go around the house redecorating each room, one of the tasks is to 
 
 Here's the assembled lock
 
-{% img src="https://farm5.staticflickr.com/4636/39540184871_74423d6742_z.jpg" caption="Old Door Lock" size="halfsize" alt="Old Door Lock" align="center" %}
+{% img src="/assets/posts/2018-01-06-Mortise-Lock/old-door-lock_39540184871_o.jpg" caption="Old Door Lock" size="halfsize" alt="Old Door Lock" align="center" %}
 
 And here's the [knolled](https://en.wikipedia.org/wiki/Knolling) parts.
 
-{% img src="https://farm5.staticflickr.com/4687/39540185261_fed8bf732b_z.jpg" caption="Old Door Lock" size="fullsize" alt="Old Door Lock" align="center" %}
+{% img src="/assets/posts/2018-01-06-Mortise-Lock/old-door-lock_39540185261_o.jpg" caption="Old Door Lock" size="fullsize" alt="Old Door Lock" align="center" %}
 
 The parts that are covered in paint I put into a pot of warm water for 15 mins or more. This loosens up the paint so it can scrapped of with a plastic scraper. Then all the parts are lightly rubbed down with 000 steel wool and lightly sprayed with WD40.
 
