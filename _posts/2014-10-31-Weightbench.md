@@ -15,4 +15,4 @@ For the bench padding, I threw away the exiting fabric and brought some bright n
 
 After all that, it scrubbed up pretty good. Now all we need are some decent weights for it.
 
-{% img src="/assets/posts/2014-10-31-Weightbench/workbench_15675478151_o.jpg" caption="WorkBench" size="halfsize" alt="WorkBench" align="center" %}
+{% img src="/assets/posts/2014-10-31-Weightbench/workbench_15675478151_o.jpg" url="/assets/posts/2014-10-31-Weightbench/workbench_15675478151_o.jpg" caption="WorkBench" size="halfsize" alt="WorkBench" align="center" %}

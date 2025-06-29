@@ -18,6 +18,6 @@ Now the tricky part is taking the plasticene off. The large bits come of by hand
 
 If I ever do this again I'll experiment with vaseline inside the mold. Anyway, this is how it all worked out.
 
-{% img src="/assets/posts/2011-01-01-Wax-Garfield/wax-garfield_5313751755_o.jpg" caption="Wax Garfield" size="halfsize" alt="Wax Garfield" align="center" %}
+{% img src="/assets/posts/2011-01-01-Wax-Garfield/wax-garfield_5313751755_o.jpg" url="/assets/posts/2011-01-01-Wax-Garfield/wax-garfield_5313751755_o.jpg" caption="Wax Garfield" size="halfsize" alt="Wax Garfield" align="center" %}
 
 Smile!

@@ -11,7 +11,7 @@ tags:
 
 Fancy something crafty to do for a few hours? There's a few of these kits from [Metal Earth](http://www.fascinations.com/metalearth), which in these parts you can find in most hobby stores.
 
-{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847177603_o.jpg" caption="Tiger Moth" size="halfsize" alt="Tiger Moth" align="center" %}
+{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847177603_o.jpg" url="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847177603_o.jpg" caption="Tiger Moth" size="halfsize" alt="Tiger Moth" align="center" %}
 
 Basically you get a laser cut sheet of thin steel and a schematic-like set of instructions. You need tools to
 <ul>
@@ -22,12 +22,12 @@ The instructions are mostly clear but you have to be careful on the different si
 
 Here's the plane about half way through
 
-{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847178123_o.jpg" caption="Tiger Moth" size="halfsize" alt="Tiger Moth" align="center" %}
+{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847178123_o.jpg" url="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27847178123_o.jpg" caption="Tiger Moth" size="halfsize" alt="Tiger Moth" align="center" %}
 
 Repeat for a few hours, less if you don't get interrupted by family wanting dinner and you get something like this
 
-{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846720364_o.jpg" caption="Tiger Moth" size="fullsize" alt="Tiger Moth" align="center" %}
-{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846721624_o.jpg" caption="Tiger Moth" size="fullsize" alt="Tiger Moth" align="center" %}
+{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846720364_o.jpg" url="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846720364_o.jpg" caption="Tiger Moth" size="fullsize" alt="Tiger Moth" align="center" %}
+{% img src="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846721624_o.jpg" url="/assets/posts/2016-07-21-Tiger-Moth/tiger-moth_27846721624_o.jpg" caption="Tiger Moth" size="fullsize" alt="Tiger Moth" align="center" %}
 
 Oh, and the wheels turn around. Nice.
 

@@ -13,7 +13,7 @@ This has recently been a bit of issue since we moved from Satellite internet to 
 
 Looking to the internets for rescue it seemed as a making an antenna was as easy as pie.  Well not for me it wasn't.  I tried a number of models and none of them worked so eventually it was time to give up and[ go professional](http://www.wilsonelectronics.com////ViewProductB.php?ID=32). 
 
-{% img src="/assets/posts/2010-09-14-Wireless-antenna/wireless-antenna_4991928030_o.jpg" caption="Wireless antenna" size="halfsize" alt="Wireless antenna" align="center" %}
+{% img src="/assets/posts/2010-09-14-Wireless-antenna/wireless-antenna_4991928030_o.jpg" url="/assets/posts/2010-09-14-Wireless-antenna/wireless-antenna_4991928030_o.jpg" caption="Wireless antenna" size="halfsize" alt="Wireless antenna" align="center" %}
 
 Now this works a treat.  We've gone from 0-1 bars to 2-3 and lovely fast internet.  Of course, we still pay per GB (thank you Rogers) which means keeping a close eye on the kids video habit.  But hey, at least we can surf in real time :)
 

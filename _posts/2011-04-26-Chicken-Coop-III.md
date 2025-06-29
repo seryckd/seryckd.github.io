@@ -11,7 +11,7 @@ tags:
 
 The four walls are made of a 3/8" plywood sandwich with insulation styrofoam in the middle. Hopefully that will keep the chickens warm in winter. Here are the walls tacked together with some undercoat on them.
 
-{% img src="/assets/posts/2011-04-26-Chicken-Coop-III/coop-undercoat_5659355321_o.jpg" caption="Coop-undercoat" size="halfsize" alt="Coop-undercoat" align="center" %}
+{% img src="/assets/posts/2011-04-26-Chicken-Coop-III/coop-undercoat_5659355321_o.jpg" url="/assets/posts/2011-04-26-Chicken-Coop-III/coop-undercoat_5659355321_o.jpg" caption="Coop-undercoat" size="halfsize" alt="Coop-undercoat" align="center" %}
 
 It's going a little slower than I'd like due to it being Spring and all the other garden jobs needing to be done. Getting the mower out is going to be tricky when the garage is pretty much filled with Coop!
 
