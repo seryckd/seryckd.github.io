@@ -15,8 +15,8 @@ But I have had a go at the 'CD macro lens' hack. [See here for details ](http://
 
 Now the photos don't come out as well as the ones on the website, but this is recognizably a snowflake.
 
-{% img src="http://farm5.static.flickr.com/4024/4559967661_bfcbbf444a.jpg" caption="Snowflake #1" size="halfsize" alt="Snowflake #1" align="center" %}
-{% img src="http://farm5.static.flickr.com/4037/4560597364_fe925b3024.jpg" caption="Snowflake #2" size="halfsize" alt="Snowflake #2" align="center" %}
+{% img src="/assets/posts/2010-05-11-Snowflakes/snowflake-1_4559967661_o.jpg" caption="Snowflake #1" size="halfsize" alt="Snowflake #1" align="center" %}
+{% img src="/assets/posts/2010-05-11-Snowflakes/snowflake-2_4560597364_o.jpg" caption="Snowflake #2" size="halfsize" alt="Snowflake #2" align="center" %}
 
 The focus issue is because I didn't squish the superglue enough so it is about 2mm high which gives quite a bit of depth.
 

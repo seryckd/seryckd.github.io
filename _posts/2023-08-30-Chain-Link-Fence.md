@@ -19,7 +19,7 @@ It was time to join the rest of the street with some nifty black chain link fenc
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153253452_c890247624_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7334_53153253452_o.jpg"  size="halfsize"  align="center" %}
 
 
 This wasn't the first fence we tried.  Our dog is a few years old and we had put up some snow fence as a quick deterrent.  Not the best, as you can see. But on the plus side this was a few feet within our property line, so the new fence could go up at the same time, then the old one taken down. 
@@ -27,7 +27,7 @@ This wasn't the first fence we tried.  Our dog is a few years old and we had put
 
 
 
-{% img src="https://live.staticflickr.com/65535/53154229035_10ccc88a90_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7142_53154229035_o.jpg"  size="halfsize"  align="center" %}
 
 
 Like all good projects, this one begins at your big box DIY store of choice.  We had about 120' to do which worked out to be, oh, this much of stuff. I didn't take a picture but all this went into the back of a [Ford Fiesta](https://en.wikipedia.org/wiki/Ford_Fiesta) with the help of a lot of bungee cords and the 10' top rails sticking out the back.
@@ -35,7 +35,7 @@ Like all good projects, this one begins at your big box DIY store of choice.  We
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221552_7c0421cc0b_k.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7135_53153221552_o.jpg"  size="halfsize"  align="center" %}
 
 
 According to some helpful YouTube links on chain link fence you don't have to use cement on all the posts, only the ones at each end.  But where's the fun in that? So first thing to do is to stake out the line of the fence with some suitably long string and use the post auger to dig in all the holes. Each one was aprox 24" deep (give or take depending on how many stones there were) and filled with half a bag of post cement. 
@@ -43,7 +43,7 @@ According to some helpful YouTube links on chain link fence you don't have to us
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221572_da2d546531_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7141_53153221572_o.jpg"  size="halfsize"  align="center" %}
 
 
 Each pole is about 7' high, so they need cutting.  Those helpful YouTube videos suggest using a portable band saw, a formidable piece of kit. But who needs power tools when you have a hacksaw?
@@ -51,7 +51,7 @@ Each pole is about 7' high, so they need cutting.  Those helpful YouTube videos 
 
 
 
-{% img src="https://live.staticflickr.com/65535/53154229025_312eccfe25_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7158_53154229025_o.jpg"  size="halfsize"  align="center" %}
 
 
 Top Tip of the Day : hacksaws work a lot better with a sharp blade. The first few posts took 15mins each and then I finally realized the blades the dull.  After that, I changed out the blades every 4 posts or so they only took a few mins each.  Significant improvement in time and energy.
@@ -64,7 +64,7 @@ This was about the time I screwed up.  For the posts at the end of the garden I 
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153796921_8234f65b94_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7172_53153796921_o.jpg"  size="halfsize"  align="center" %}
 
 
 Yup. Since I had cut a few poles I did have spare material, so was able to cut a piece to the missing size, then cut up a portion of another piece of pole to use as inserts.  I gave them a good sanding, then used 2-part epoxy glue to put it all together.
@@ -72,7 +72,7 @@ Yup. Since I had cut a few poles I did have spare material, so was able to cut a
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221632_993f14b9ef_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7173_53153221632_o.jpg"  size="halfsize"  align="center" %}
 
 
 It wasn't bad, apart from the excise glue making a mess on the sides.
@@ -80,7 +80,7 @@ It wasn't bad, apart from the excise glue making a mess on the sides.
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221647_c23f09ae7f_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7175_53153221647_o.jpg"  size="halfsize"  align="center" %}
 
 
 Which brings me to the next Top Tip.  Use a string line stretched from the end poles to mark where the cuts should be.
@@ -88,7 +88,7 @@ Which brings me to the next Top Tip.  Use a string line stretched from the end p
 
 
 
-{% img src="https://live.staticflickr.com/65535/53154293438_e99ac23552_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7161_53154293438_o.jpg"  size="halfsize"  align="center" %}
 
 
 The top rail now went on nicely. You can see in the finished pictures what a different this makes, as the fence looks straight and narrow.
@@ -101,7 +101,7 @@ The actual chain link is a pain in the but to work with. I didn't take many pict
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221702_7d5cc2cd87_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7176_53153221702_o.jpg"  size="halfsize"  align="center" %}
 
 
 A new piece of chain link rolled out ready to use.  Top Tip : don't do this. It looks pretty but now you have to hold it vertical and move it to the fence as the whole thing twists and tangles (again).
@@ -129,10 +129,10 @@ Here are a few pics of the fence as we took out the old fence and trimmed.
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153221727_0864dc9396_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7180_53153221727_o.jpg"  size="halfsize"  align="center" %}
 
 
-{% img src="https://live.staticflickr.com/65535/53154293553_4e6aa2525c_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7326_53154293553_o.jpg"  size="halfsize"  align="center" %}
 
 
 At this point the fence was done, but we also wanted to stop weeds spreading (as if that is possible), so I also dug in a 4" plastic garden edge along the whole length.
@@ -140,7 +140,7 @@ At this point the fence was done, but we also wanted to stop weeds spreading (as
 
 
 
-{% img src="https://live.staticflickr.com/65535/53153797096_8404bfd7f4_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7333_53153797096_o.jpg"  size="halfsize"  align="center" %}
 
 
 We also put in two gates along the length, so we can still visit each other's gardens.
@@ -153,7 +153,7 @@ Here's one
 
 
 
-{% img src="https://live.staticflickr.com/65535/53154004434_2d6a8b00ca_n.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2023-08-30-Chain-Link-Fence/img_7328_53154004434_o.jpg"  size="halfsize"  align="center" %}
 
 
 All in all, it took a few weeks of working evenings and a two full weekends to complete.  Overall, I'm quite pleased with it. 

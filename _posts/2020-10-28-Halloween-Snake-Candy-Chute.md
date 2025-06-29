@@ -17,7 +17,7 @@ It's halloween in 2020 so that means better safe than sorry. So why not make it 
 
 
 
-{% img src="https://live.staticflickr.com/65535/50542650701_c66aa696fd_b.jpg"  size="fullsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50542650701_o.jpg"  size="fullsize"  align="center" %}
 
 
 It was pretty quick and dirty
@@ -30,12 +30,12 @@ It was pretty quick and dirty
 
 
 
-{% img src="https://live.staticflickr.com/65535/50541924333_b61680c132_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50541924333_o.jpg"  size="halfsize"  align="center" %}
 
 
 
 
-{% img src="https://live.staticflickr.com/65535/50541924343_904d1e80f3_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50541924343_o.jpg"  size="halfsize"  align="center" %}
 
 
 
@@ -43,7 +43,7 @@ It was pretty quick and dirty
 <ul><li>Put on some details, such as eyes, teeth and brows with some kids modelling clay</li></ul>
 
 
-{% img src="https://live.staticflickr.com/65535/50541924348_e9a45e1fc2_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50541924348_o.jpg"  size="halfsize"  align="center" %}
 
 
 <ul id="block-de9e7db4-91e5-41c4-85cb-9c94603be7ff"><li>Spray paint your favourite halloween colour</li></ul>
@@ -51,12 +51,12 @@ It was pretty quick and dirty
 
 
 
-{% img src="https://live.staticflickr.com/65535/50542650501_276501e4a9_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50542650501_o.jpg"  size="halfsize"  align="center" %}
 
 
 
 
-{% img src="https://live.staticflickr.com/65535/50542787917_6eb00547a9_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50542787917_o.jpg"  size="halfsize"  align="center" %}
 
 
 
@@ -66,12 +66,12 @@ It was pretty quick and dirty
 
 
 
-{% img src="https://live.staticflickr.com/65535/50542650511_d534c6dac1_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50542650511_o.jpg"  size="halfsize"  align="center" %}
 
 
 
 
-{% img src="https://live.staticflickr.com/65535/50542650481_260bbf8a56_b.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2020-10-28-Halloween-Snake-Candy-Chute/snake-candy-chute_50542650481_o.jpg"  size="halfsize"  align="center" %}
 
 
 

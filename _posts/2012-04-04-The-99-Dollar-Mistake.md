@@ -21,7 +21,7 @@ Well, in for a penny, in for a pound and with a wave of signature he was now in 
 
 Nothing, that is, except for an exposed phone jack with the cover off ready for painting.  "Ah, he said. I think I see the problem."
 
-{% img src="http://farm8.staticflickr.com/7200/6900442476_e5331aefdd.jpg" caption="Phone Cable" size="halfsize" alt="Phone Cable" align="center" %}
+{% img src="/assets/posts/2012-04-04-The-99-Dollar-Mistake/phone-cable_6900442476_o.png" caption="Phone Cable" size="halfsize" alt="Phone Cable" align="center" %}
 
 "Those two wires, the orange and the blue? They shouldn't be touching like that." And with a wave of his hand, the wires separated, the phones started working and 99 dollars vanished from my pocket.
 

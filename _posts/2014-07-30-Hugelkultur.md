@@ -12,7 +12,7 @@ The idea is build a bed over a load of old tree stumps and branches. Over time a
 
 As luck would have it we had plenty of spare wood around the yard so one afternoon (some months ago) we picked it all up and dumped it in one place.
 
-{% img src="https://farm6.staticflickr.com/5484/14623936606_8707ba6c73.jpg" caption="hugelkultur" size="halfsize" alt="hugelkultur" align="center" %}
+{% img src="/assets/posts/2014-07-30-Hugelkultur/hugelkultur_14623936606_o.jpg" caption="hugelkultur" size="halfsize" alt="hugelkultur" align="center" %}
 
 At first we weren't quite sure what to do with it, but we have started by growing alfalfa on some soil thrown in various places.
 

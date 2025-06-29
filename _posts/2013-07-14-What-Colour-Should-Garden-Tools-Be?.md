@@ -7,7 +7,7 @@ tags:
 
 Here's a question for you, what colour should garden tools be? Here's a selection of hand tools from our garden:
 
-{% img src="http://farm4.staticflickr.com/3821/9289883530_4837f84b00.jpg" caption="tools-1" size="halfsize" alt="tools-1" align="center" %}
+{% img src="/assets/posts/2013-07-14-What-Colour-Should-Garden-Tools-Be?/tools-1_9289883530_o.jpg" caption="tools-1" size="halfsize" alt="tools-1" align="center" %}
 
 I see lots of browns and greens, which is pretty typical.
 
@@ -15,7 +15,7 @@ Now let me ask another question, how hard is it to find the tools when you put t
 
 After we had lost yet another knife (they seem to be the ones that go the quickest) it was time to do something about it. Painting them red was not my idea, you can find it in many places, but it is a good idea. So a quick spray later and ... voila!
 
-{% img src="http://farm4.staticflickr.com/3815/9287096127_7038711910.jpg" caption="tools-2" size="halfsize" alt="tools-2" align="center" %}
+{% img src="/assets/posts/2013-07-14-What-Colour-Should-Garden-Tools-Be?/tools-2_9287096127_o.jpg" caption="tools-2" size="halfsize" alt="tools-2" align="center" %}
 
 Now that's only spray paint so it will wear off after a season but I think it's pretty clear in that shot how much easier they are to find.
 
