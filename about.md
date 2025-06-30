@@ -25,9 +25,9 @@ permalink: /about/
     </li>
 </ul>
 
-Darren Seryck lives in Ontario, Canada. He gets very interested in things that normal people wouldn't (at least according to his wife, a very normal person) and then just as suddenly loses interest and switches to other things. Hence he tends to accumulate a lot of what most people would call junk and he calls 'useful things waiting for a purpose'.
+<i>Darren Seryck lives in Ontario, Canada. He gets very interested in things that normal people wouldn't (at least according to his wife, a very normal person) and then just as suddenly loses interest and switches to other things. Hence he tends to accumulate a lot of what most people would call junk and he calls 'useful things waiting for a purpose'.</i>
 
-Just for fun, I posted the above into ChatGPT and asked it to generate an image of me.
+I wrote the above for the first post some years ago. But how accurate is it? I posted the above into a generic text-to-image AI tool and asked it to generate a picture of the person in the text.
 
 {% img src="aboutme.jpg" align="center" caption="me!" size="halfsize" %}
 
