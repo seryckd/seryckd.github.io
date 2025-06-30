@@ -8,7 +8,9 @@ tags:
     - wood
 ---
 
-Time for an update on how the fence is doing. Here's a look from the newly refurbished pool area
+
+
+Time for an update on how the [butterfly fence]({% link _posts/2010-04-24-butterfly-fence.md %}) is doing. Here's a look from the newly refurbished pool area
 
 {% img src="/assets/posts/2011-06-26-Butterfly-Fence-Update-2011/fencepoolarea_5874973597_o.jpg" url="/assets/posts/2011-06-26-Butterfly-Fence-Update-2011/fencepoolarea_5874973597_o.jpg" caption="Fence&amp;PoolArea" size="halfsize" alt="Fence&amp;PoolArea" align="center" %}
 

@@ -11,7 +11,7 @@ My son has a way with electronics that is quite remarkable. They tend to break o
 
 Luckily my new set of screw bits from [iFixit](http://www.ifixit.com/) had just arrived and I had a 000 bit ready to go. It took a while to work out but in the end it turned out to be fairly easy to disassemble.
 
-{% img src="/assets/posts/2012-04-04-What' url="/assets/posts/2012-04-04-What"s-Inside-Your-Phone/samsung_6900512628_o.png" caption="Samsung" size="halfsize" alt="Samsung" align="center" %}
+{% img src="/assets/posts/2012-04-04-Whats-Inside-Your-Phone/samsung_6900512628_o.png" url="/assets/posts/2012-04-04-Whats-Inside-Your-Phone/samsung_6900512628_o.png" caption="Samsung" size="halfsize" alt="Samsung" align="center" %}
 
 The black thingy was the flex cable from the screen the to cpu. No wonder the screen wasn't working. There was no chance of repairing that so the hunt was on for a replacement.
 
