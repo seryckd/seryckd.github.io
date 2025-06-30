@@ -2,11 +2,6 @@ theme: minima
 
 title: Cluttered Spaces
 
-author:
-  name: Darren Seryck
-  email: "my@email"
-
-
 minima:
   skin: classic
 
