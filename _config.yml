@@ -2,6 +2,8 @@ theme: minima
 
 title: Cluttered Spaces
 
+google_analytics: G-KSV3X8KFMS
+
 minima:
   skin: classic
 
