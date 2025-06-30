@@ -83,6 +83,6 @@ I am using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll
 - archive page
 - can we add inifinity scroll instead of loading the whole page?
 - exerpts (https://jekyllrb.com/docs/posts/#post-excerpts) should be set better.  Can we get a picture and paragraph for each?
-- convert the page "butterfly fence" to a post
 - can we freeze the top part of the page as the rest scrolls?
 - can we have an archive by month/year ?
+- tag cloud?
