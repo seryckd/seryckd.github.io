@@ -19,11 +19,10 @@ All this thinking and drawing probably took the best of six months as a backgrou
 
 Here’s what some of the panels looked like
 
-{% img src="{{page.imgpath}}/IMG_5978.jpg" url="{{page.imgpath}}/IMG_5978.jpg" caption="Unpainted boards" size="halfsize" align="center" %}
+{% img src="{{page.imgpath}}/IMG_5978.JPG" url="{{page.imgpath}}/IMG_5978.JPG" caption="Unpainted boards" size="halfsize" align="center" %}
 
 Finally it was painting time which took weeks; as I wanted to give them as much protection as possible.  Each side has three undercoats and two or three top coats of exterior paint.  Frankly I lost count at one point and some sides may have had more.  There was a lot of painting to do.
 
 So after about a year of mucking about this is the finished article.
 
-{% img src="{{page.imgpath}}/IMG_6037.jpg" url="{{page.imgpath}}/IMG_6037.jpg" caption="Finished boards" size="halfsize" align="center" %}
-
+{% img src="{{page.imgpath}}/IMG_6037.JPG" url="{{page.imgpath}}/IMG_6037.JPG" caption="Finished boards" size="halfsize" align="center" %}
