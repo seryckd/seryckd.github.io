@@ -56,20 +56,6 @@ The GitHub action runs under linux so I needed to get the linux runtimes in the 
 bundle lock --add-platform x86_64-linux
 ```
 
-
-## TODO
-
-- can images scale according to width? so they show larger on mobile
-- custom DNS
-- footer of the page: name, email, social links, description
-- archive page
-- can we add inifinity scroll instead of loading the whole page?
-- exerpts (https://jekyllrb.com/docs/posts/#post-excerpts) should be set better.  Can we get a picture and paragraph for each?
-- convert the page "butterfly fence" to a post
-- can we freeze the top part of the page as the rest scrolls?
-- can we have an archive by month/year ?
-- google analytics
-
 ## Notes
 
 Minima integrates with jekyl-paginate (v1) and will show a specified number of posts followed by 3 boxes representing previous, current, and next.  I didn't like this because you have to scroll down the list to get the controls and then selecting the next page means you can't see the top of the list.  It also breaks the inifnity scroll that works better on mobile.
@@ -90,3 +76,13 @@ It has Jekyl/Liquid tags and supports captions, center alignment and can specify
 ### Simple Jekyll Search
 
 I am using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search) from Christian Fei (thanks!).
+
+# TODO
+
+- can images scale according to width? so they show larger on mobile
+- archive page
+- can we add inifinity scroll instead of loading the whole page?
+- exerpts (https://jekyllrb.com/docs/posts/#post-excerpts) should be set better.  Can we get a picture and paragraph for each?
+- convert the page "butterfly fence" to a post
+- can we freeze the top part of the page as the rest scrolls?
+- can we have an archive by month/year ?
