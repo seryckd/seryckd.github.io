@@ -19,10 +19,10 @@ One of the reasons everything had taken a while was sourcing the lumber for the 
 
 Of course, the wood still stayed in the corner of the garage for a few months. Don't rush things, that's my motto.
 
-{% img src="/assets/posts/2013-02-03-Mantelpiece/mantelpiece_8443270644_o.jpg" url="/assets/posts/2013-02-03-Mantelpiece/mantelpiece_8443270644_o.jpg" caption="Mantelpiece" size="halfsize" alt="Mantelpiece" align="center" %}
+{% img src="/assets/posts/2013-02-03-Mantelpiece/mantelpiece_8443270644_o.jpg" caption="Mantelpiece" size="80%" alt="Mantelpiece" align="center"%}
 
 Eventually it took two coats of staining and three coats of varnish to get it looking like this. We did cheat a little and got the fancy carving from a store. No way I was doing that.
 
-{% img src="/assets/posts/2013-02-03-Mantelpiece/mantelpiece2_8442188503_o.jpg" url="/assets/posts/2013-02-03-Mantelpiece/mantelpiece2_8442188503_o.jpg" caption="Mantelpiece2" size="halfsize" alt="Mantelpiece2" align="center" %}
+{% img src="/assets/posts/2013-02-03-Mantelpiece/mantelpiece2_8442188503_o.jpg" caption="Mantelpiece2" size="80%" alt="Mantelpiece2" align="center"%}
 
 I think it all worked ok in the end though.

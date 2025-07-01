@@ -22,17 +22,17 @@ Our trailer came with window blinds and some pelmets (the things above curtains)
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881938_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881938_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881938_o.jpg" align="center" size="80%"%}
 
 
 
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881943_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881943_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52094881943_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52095359935_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52095359935_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/trailer-pelmets_52095359935_o.jpg" size="80%" align="center"%}
 
 
 
@@ -58,7 +58,7 @@ First step is to use some brown paper to cut the template. Since I was copying a
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6134_52090181374_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6134_52090181374_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6134_52090181374_o.jpg" align="center" size="80%"%}
 
 
 Eventually there is a bunch of templates. The idea is to sew some backing (very thin white material onto the actual material. The pelmet is made of two pieces, so we fold the material, fold the backing and pin the template to it. Then we cut out all 4 layers at once.
@@ -66,7 +66,7 @@ Eventually there is a bunch of templates. The idea is to sew some backing (very 
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6184_52089959218_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6184_52089959218_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6184_52089959218_o.jpg" align="center" size="80%"%}
 
 
 Once they are cut out, then it's sewing time. Which took a while, lot's to learn. Thank goodness for the manual that comes with the sewing machine. 
@@ -74,7 +74,7 @@ Once they are cut out, then it's sewing time. Which took a while, lot's to learn
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6192_52090439075_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6192_52090439075_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6192_52090439075_o.jpg" align="center" size="80%"%}
 
 
 The idea is to sew around the two pieces of material leaving a 1.2" edge. Leave a gap large enough to put your hand in so you can pull the whole thing inside out.
@@ -82,7 +82,7 @@ The idea is to sew around the two pieces of material leaving a 1.2" edge. Leave 
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6193_52089934331_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6193_52089934331_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6193_52089934331_o.jpg" align="center" size="80%"%}
 
 
 Here's an example of the 'inside out thing'. It's helpful to iron the edges down.
@@ -95,7 +95,7 @@ Once the triangles are made, then sew them together and sew on the velcro.  I'm 
 
 
 
-{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6130_52089961308_o.jpg" url="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6130_52089961308_o.jpg"    align="center" %}
+{% img src="/assets/posts/2022-05-23-Pelmets-and-Sewing-Machines/img_6130_52089961308_o.jpg" align="center" size="80%"%}
 
 
 <h2>Notes for my Future Self</h2>

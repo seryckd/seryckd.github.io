@@ -18,7 +18,7 @@ I happened on this comic link today.   In general, it's a good idea to protect i
 
 
 
-{% img src="http://mimiandeunice.com/wp-content/uploads/2011/08/ME_446_LegalExistence.png" url="http://mimiandeunice.com/wp-content/uploads/2011/08/ME_446_LegalExistence.png"  size="halfsize"  align="center" %}
+{% img src="http://mimiandeunice.com/wp-content/uploads/2011/08/ME_446_LegalExistence.png" size="80%" align="center"%}
 
 
 

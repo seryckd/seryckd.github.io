@@ -29,7 +29,7 @@ This year we're looking good for halloween with some brightly lit panels on the 
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6596_52446788426_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6596_52446788426_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6596_52446788426_o.jpg" size="80%" align="center"%}
 
 
 First of, this is not my idea.  I took inspiration from this great Instructable [Halloween Garage Door Silhouette](https://www.instructables.com/Halloween-Garage-Door-Silhouette/). We don't have a garage though, so I wondered if I could do something for our porch.
@@ -42,7 +42,7 @@ But what to do?  I'm not the real arty type so it took more than a few google Du
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/68239497445__fb730c02-43e1-4ba4-a115-eb6617322926_52447226055_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/68239497445__fb730c02-43e1-4ba4-a115-eb6617322926_52447226055_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/68239497445__fb730c02-43e1-4ba4-a115-eb6617322926_52447226055_o.jpg" size="80%" align="center"%}
 
 
 In order to transfer the designs onto 4'x4' sheets of plyboard I used the grid technique. This is where you split up an image into smaller pieces and copy each of the smaller pieces.  I found it useful to draw the copies in a light pencil, then iteratively draw over the top until I had something I liked, and only then use a black marker.
@@ -51,10 +51,10 @@ In order to transfer the designs onto 4'x4' sheets of plyboard I used the grid t
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6376_52447298793_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6376_52447298793_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6376_52447298793_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6378_52447226070_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6378_52447226070_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6378_52447226070_o.jpg" size="80%" align="center"%}
 
 
 
@@ -64,10 +64,10 @@ Then the shapes were cut out with a jigsaw and painted. Let's not underplay this
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/68308317829__4f471dc3-ab9f-410f-bf2d-a6768a6441ca_52447298798_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/68308317829__4f471dc3-ab9f-410f-bf2d-a6768a6441ca_52447298798_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/68308317829__4f471dc3-ab9f-410f-bf2d-a6768a6441ca_52447298798_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6571_52446262987_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6571_52446262987_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6571_52446262987_o.jpg" size="80%" align="center"%}
 
 
 
@@ -77,10 +77,10 @@ Originally I wanted to use strings of LEDs. But I just couldn't figure out which
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6579_52446788286_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6579_52446788286_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6579_52446788286_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6582_52447059844_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6582_52447059844_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6582_52447059844_o.jpg" size="80%" align="center"%}
 
 
 
@@ -90,10 +90,10 @@ There's a missing step I did not get pictures for, where I made 3 frames of plyw
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/4815edd7-d9dd-41c7-b7da-03aa0963e810_52446788241_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/4815edd7-d9dd-41c7-b7da-03aa0963e810_52446788241_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/4815edd7-d9dd-41c7-b7da-03aa0963e810_52446788241_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6581_52447059839_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6581_52447059839_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6581_52447059839_o.jpg" size="80%" align="center"%}
 
 
 
@@ -103,10 +103,10 @@ After screwing the figures to the backing boards (the screws went into the glued
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6589_52447298948_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6589_52447298948_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6589_52447298948_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6590_52446788351_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6590_52446788351_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6590_52446788351_o.jpg" size="80%" align="center"%}
 
 
 
@@ -116,10 +116,10 @@ Now the fun part.  Each board was lifted into position and held in place with so
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6591_52446263107_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6591_52446263107_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6591_52446263107_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6594_52447298998_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6594_52447298998_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6594_52447298998_o.jpg" size="80%" align="center"%}
 
 
 
@@ -128,7 +128,7 @@ And here they are, all hung up and looking rather fab.  I would have liked to ha
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6593_52446263197_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6593_52446263197_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6593_52446263197_o.jpg" size="80%" align="center"%}
 
 
 Of course, it is at night that they shine - literally. The pictures don't quite capture how they look, in real life the LED strips make more of a scattered light, rather than the single glowing look they have here.
@@ -137,10 +137,10 @@ Of course, it is at night that they shine - literally. The pictures don't quite 
 
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6598_52446263192_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6598_52446263192_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6598_52446263192_o.jpg" size="80%" align="center"%}
 
 
-{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6608_52447299018_o.jpg" url="/assets/posts/2022-10-22-Halloween-Boards/img_6608_52447299018_o.jpg"  size="halfsize"  align="center" %}
+{% img src="/assets/posts/2022-10-22-Halloween-Boards/img_6608_52447299018_o.jpg" size="80%" align="center"%}
 
 
 
