@@ -13,7 +13,7 @@ Just for fun we built a small prototype of a [trebuchet](http://en.wikipedia.org
 
 This is the static result:
 
-{% img src="/assets/posts/2010-08-03-Trebuchet-part-I/trebuchet-prototype1_4856960634_o.jpg" url="/assets/posts/2010-08-03-Trebuchet-part-I/trebuchet-prototype1_4856960634_o.jpg" caption="Trebuchet-Prototype1" size="halfsize" alt="Trebuchet-Prototype1" align="center" %}
+{% img src="/assets/posts/2010-08-03-Trebuchet-part-I/trebuchet-prototype1_4856960634_o.jpg" caption="Trebuchet-Prototype1" size="80%" alt="Trebuchet-Prototype1" align="center"%}
 
 Here's a short (10sec) video of it being demonstrated by a handy volunteer who happened to be passing.
 

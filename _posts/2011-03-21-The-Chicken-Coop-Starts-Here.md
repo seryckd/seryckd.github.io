@@ -17,7 +17,7 @@ Although having got them (emailed pdf) I was a little disappointed that they whe
 
 So one trip to Home Depot later and check out the size of my trolley -
 
-{% img src="/assets/posts/2011-03-21-The-Chicken-Coop-Starts-Here/lumber_5548894662_o.jpg" url="/assets/posts/2011-03-21-The-Chicken-Coop-Starts-Here/lumber_5548894662_o.jpg" caption="Lumber" size="halfsize" alt="Lumber" align="center" %}
+{% img src="/assets/posts/2011-03-21-The-Chicken-Coop-Starts-Here/lumber_5548894662_o.jpg" caption="Lumber" size="80%" alt="Lumber" align="center"%}
 
 There was another cart with the insulation in. I didn't buy any of the hardware - bolts, hinges and whatnot - as I'll muddle through getting most of the pieces cut to size before needing to assemble any of that. Also, I'm hoping to use some of the spare stuff I have lying around, like odd bits of 2x4 and old hinges, that kind of thing. There should be some shingles (roof tiles) in the utility shed left over from the garden shed that I need to dig out.
 

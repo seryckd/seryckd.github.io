@@ -23,7 +23,7 @@ For those of you who don't like waiting till the end of the book, here's what I 
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg" align="center" size="80%"%}
 
 
 
@@ -32,7 +32,7 @@ The first step was to get the plywood sheets and wood delivered. A lot of the ar
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4606_48571893742_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4606_48571893742_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4606_48571893742_o.jpg" align="center" size="80%"%}
 
 
 Incidentally, to make this easier I used some clamps and scrap wood to create a jig of sorts.
@@ -40,7 +40,7 @@ Incidentally, to make this easier I used some clamps and scrap wood to create a 
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4603_48571883536_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4603_48571883536_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4603_48571883536_o.jpg" align="center" size="80%"%}
 
 
 Next up was to put some sheets on the wall. I already had some of these up so just continued along to the next stud.
@@ -48,7 +48,7 @@ Next up was to put some sheets on the wall. I already had some of these up so ju
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4607_48571893137_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4607_48571893137_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4607_48571893137_o.jpg" align="center" size="80%"%}
 
 
 Right, looking good. Next task was to space out some of the strips evenly 10" apart. This is made more interesting when you forget to mark out the studs before hand and you decide to use the 'knocking' technique to hear where the studs are. Eventually I found all the studs and so we have this.
@@ -56,7 +56,7 @@ Right, looking good. Next task was to space out some of the strips evenly 10" ap
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4608_48571744351_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4608_48571744351_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4608_48571744351_o.jpg" align="center" size="80%"%}
 
 
 That's the wall prepared, but now the next question is  - what to put on it? I tried a few simple things to get the hang of it, like taking a small parts organizer and placing a strip on the back.
@@ -64,7 +64,7 @@ That's the wall prepared, but now the next question is  - what to put on it? I t
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4609_48571744316_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4609_48571744316_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4609_48571744316_o.jpg" align="center" size="80%"%}
 
 
 And much fun was had moving it around from place to place. But seriously, what was the most practical way to hang lots of stuff? The internet is full of neat ideas for clamps, angles and the like but I couldn't find anyone who just wanted a big wall for storing things.
@@ -77,7 +77,7 @@ So the first attempt was a shelf designed to fit two empty cat litter containers
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4612_48571744781_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4612_48571744781_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4612_48571744781_o.jpg" align="center" size="80%"%}
 
 
 Here's one put together with the aforementioned cat litter receptacles.
@@ -85,7 +85,7 @@ Here's one put together with the aforementioned cat litter receptacles.
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4613_48571744896_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4613_48571744896_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/img_4613_48571744896_o.jpg" align="center" size="80%"%}
 
 
 After much moving around and putting in of things I came to the conclusion that
@@ -101,7 +101,7 @@ The next template I made had a longer back and few other tweaks.
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelf_48571941037_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelf_48571941037_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelf_48571941037_o.jpg" align="center" size="80%"%}
 
 
 Then I went ahead at made as many as possible from the remaining sheet, which turned out to be 8.
@@ -109,7 +109,7 @@ Then I went ahead at made as many as possible from the remaining sheet, which tu
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/finished-shelves_48571940922_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/finished-shelves_48571940922_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/finished-shelves_48571940922_o.jpg" align="center" size="80%"%}
 
 
 Notice that these straddle two of the strips making them more stable and able to take more weight.
@@ -122,7 +122,7 @@ Naturally I couldn't wait to fill them with stuff and start moving them around.
 
 
 
-{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg" url="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg"    align="center" %}
+{% img src="/assets/posts/2019-08-20-Workshop-Reorganization-2/shelves-up-and-ready_48571940487_o.jpg" align="center" size="80%"%}
 
 
 I think I'll take a break and play with it a bit to see how it goes. Plus I ran out of wood.

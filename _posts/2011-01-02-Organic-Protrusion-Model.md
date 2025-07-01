@@ -19,9 +19,9 @@ This was a particularly painful process and I ended up painting the whole thing 
 
 Affectionately known as 'the Vomit'.
 
-{% img src="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-i_5318651496_o.jpg" url="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-i_5318651496_o.jpg" caption="Organic Protrusion I" size="halfsize" alt="Organic Protrusion I" align="center" %}
+{% img src="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-i_5318651496_o.jpg" caption="Organic Protrusion I" size="80%" alt="Organic Protrusion I" align="center"%}
 
 and just for a size comparison, here's a close up with a [Tyranid (Games Workshop)](http://www.games-workshop.com/gws/catalog/productDetail.jsp?catId=cat440297a&amp;prodId=prod380003a)
-{% img src="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-ii_5318056141_o.jpg" url="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-ii_5318056141_o.jpg" caption="Organic Protrusion II" size="halfsize" alt="Organic Protrusion II" align="center" %}
+{% img src="/assets/posts/2011-01-02-Organic-Protrusion-Model/organic-protrusion-ii_5318056141_o.jpg" caption="Organic Protrusion II" size="80%" alt="Organic Protrusion II" align="center"%}
 
 (You can see the fine network of cracks in the paint caused by improperly undercoating)

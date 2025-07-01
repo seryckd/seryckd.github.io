@@ -18,7 +18,7 @@ Chopping the chocolate up fine is much better, only now its a thick lump that wo
 
 Only next morning the chocolate still hadn't set and was just as runny. Watered down too much. However, on the fourth go (and running out of chocolate) I got much closer.
 
-{% img src="/assets/posts/2011-10-20-Chocolate/chocolatetoy_6265230452_o.jpg" url="/assets/posts/2011-10-20-Chocolate/chocolatetoy_6265230452_o.jpg" caption="ChocolateToy" size="halfsize" alt="ChocolateToy" align="center" %}
+{% img src="/assets/posts/2011-10-20-Chocolate/chocolatetoy_6265230452_o.jpg" caption="ChocolateToy" size="80%" alt="ChocolateToy" align="center"%}
 
 I also suspect that leaving it in the fridge may not have been the best either. It looks like more like a sweaty gorilla than a chocolate toy!
 

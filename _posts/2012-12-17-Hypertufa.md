@@ -19,24 +19,24 @@ Make no mistake, this stuff takes a long time to set. We're talking weeks. And i
 
 Here's the mixing board we used with an old metal pot being the form.
 
-{% img src="/assets/posts/2012-12-17-Hypertufa/ht_mixing_8282966104_o.jpg" url="/assets/posts/2012-12-17-Hypertufa/ht_mixing_8282966104_o.jpg" caption="HT_Mixing" size="halfsize" alt="HT_Mixing" align="center" %}
+{% img src="/assets/posts/2012-12-17-Hypertufa/ht_mixing_8282966104_o.jpg" caption="HT_Mixing" size="80%" alt="HT_Mixing" align="center"%}
 
 We tried lots of different forms - plastic bowls, metal bowls, purpose built wooden troughs. We tried putting the 'tufa on the outside (which gets rough exterior but can be very difficult to remove the form) and the inside (easy to remove from the form but usually an unnaturally smooth exterior).
 
 Here's a room we converted into a 'tufa drying room. Everything wrapped in plastic and lovingly sprayed every few days.
 
-{% img src="/assets/posts/2012-12-17-Hypertufa/ht_curing_8281931441_o.jpg" url="/assets/posts/2012-12-17-Hypertufa/ht_curing_8281931441_o.jpg" caption="HT_Curing" size="halfsize" alt="HT_Curing" align="center" %}
+{% img src="/assets/posts/2012-12-17-Hypertufa/ht_curing_8281931441_o.jpg" caption="HT_Curing" size="80%" alt="HT_Curing" align="center"%}
 
 After some weeks of this the 'tufa is dry (or at least the ones that didn't fall apart in a crumbly mess, luckily there weren't too many of those) and ready for use. Well, nearly ready. The ultimate aim of all this is to plant flowers in them and it turns out the levels of lime are too high. So the final step is to leach it in water for another week or so.
 
 The downstairs sink in leaching mode
 
-{% img src="/assets/posts/2012-12-17-Hypertufa/ht_leaching_8282973608_o.jpg" url="/assets/posts/2012-12-17-Hypertufa/ht_leaching_8282973608_o.jpg" caption="HT_Leaching" size="halfsize" alt="HT_Leaching" align="center" %}
+{% img src="/assets/posts/2012-12-17-Hypertufa/ht_leaching_8282973608_o.jpg" caption="HT_Leaching" size="80%" alt="HT_Leaching" align="center"%}
 
 On reflection, the light levels in the picture don't really do it justice. It looks a little too much like a picture of a used toilet bowl ...
 
 Moving swiftly on, here are some of the finished products getting ready to face the outside world.
 
-{% img src="/assets/posts/2012-12-17-Hypertufa/ht_finished_8282978176_o.jpg" url="/assets/posts/2012-12-17-Hypertufa/ht_finished_8282978176_o.jpg" caption="HT_Finished" size="halfsize" alt="HT_Finished" align="center" %}
+{% img src="/assets/posts/2012-12-17-Hypertufa/ht_finished_8282978176_o.jpg" caption="HT_Finished" size="80%" alt="HT_Finished" align="center"%}
 
 We've left some out over the winter to see how they hold up. If they're still in one piece in the Spring I'll post an update. Hopefully with flowers in.
