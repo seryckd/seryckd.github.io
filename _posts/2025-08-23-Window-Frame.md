@@ -8,6 +8,9 @@ tags:
     - wood
     - projects
     - restoration
+    - trim
+    - casing
+    - router
 ---
 
 {% img src=/assets/posts/2025-08-23-Window-Frame/finished.jpg size="80%" alt="Finished window frame" caption="Study window with period appropiate casing" align="center"%}
